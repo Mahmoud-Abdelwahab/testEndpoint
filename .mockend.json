@@ -11,8 +11,7 @@
       "belongsTo": "Post"
     }
   },
-  
   "User": {
-  "info" : { "id" : 1 , "image": "ds"} ,
+    "info" : { "id" : 1 , "image": "ds"} ,
    }
 }
