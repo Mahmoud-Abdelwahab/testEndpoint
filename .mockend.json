@@ -1,6 +1,6 @@
 {
   "Post": {
-    "title": { "string": "title on" },
+    "title": { "string": {} },
     "comments": {
       "hasMany": "Comment"
     }
@@ -11,4 +11,9 @@
       "belongsTo": "Post"
     }
   }
+  
+  "User": {
+  "id" : 1
+   "image" : "fdsfdsfs"
+   }
 }
