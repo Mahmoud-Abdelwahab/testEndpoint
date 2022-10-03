@@ -1,8 +1,14 @@
 {
-      "name": {
-      "string": {}
-    },
-    "avatarUrl": {
-      "regexp": "https://i\\.pravatar\\.cc/150\\?u=[0-9]{5}"
+  "Post": {
+    "title": { "string": "title on" },
+    "comments": {
+      "hasMany": "Comment"
     }
+  },
+  "Comment": {
+    "body": { "string": {} },
+    "post": {
+      "belongsTo": "Post"
+    }
+  }
 }
