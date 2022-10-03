@@ -13,7 +13,6 @@
   },
   
   "User": {
-  "id" : 1 ,
-   "image" : "fdsfdsfs"
+  "info" : { "id" : 1 , "image": "ds"} ,
    }
 }
