@@ -1,6 +1,8 @@
 {
-  "Post": {
-  "id": 1,
-    "url": "hhhhhh"
-  }
+      "name": {
+      "string": {}
+    },
+    "avatarUrl": {
+      "regexp": "https://i\\.pravatar\\.cc/150\\?u=[0-9]{5}"
+    },
 }
