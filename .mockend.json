@@ -12,6 +12,6 @@
     }
   },
   "User": {
-    "info" : { "id" : 1 , "image": "ds"} ,
+    "info" : { "id" :{} , "image": {} } 
    }
 }
