@@ -10,8 +10,5 @@
     "post": {
       "belongsTo": "Post"
     }
-  },
-  "User": {
-    "info" : { "id" :{} , "image": {} } 
-   }
+  }
 }
